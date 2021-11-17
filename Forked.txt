@@ -1,0 +1,6 @@
+DERIV_CPP_Design-Patterns-and-Derivatives-Pricing
+DERIV_MATLAB_Design-Patterns-and-Derivatives-Pricing
+DERIV_PYTHON_Design-Patterns-and-Derivatives-Pricing
+DL_TensorFlow_StockPrediction
+ML_BOOK_MachineLearningForTrading
+TRADING_TimeSeriesMomentum
